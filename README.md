@@ -5,7 +5,7 @@ This project analyzes product-level data from Zepto using MySQL. It includes adv
 ## 🧰 Tools & Tech
 - MySQL Workbench
 - SQL (Window functions, CTEs, Views, Procedures)
-- Real-world product dataset (~3,700 rows)
+- Real-world product dataset (~3,400 rows)
 
 ## 📊 Features
 - Out-of-stock analysis by category
@@ -15,8 +15,8 @@ This project analyzes product-level data from Zepto using MySQL. It includes adv
 - Views for reusable business logic
 
 ## 📁 Files
-- `zepto_sql_project.sql` – All queries and table creation
-- `sample_zepto_data.csv` – Sample dataset (limited rows)
+- `zepto_sql_analysis.sql` – All queries and table creation
+- `zepto_v2.csv` – Sample dataset (limited rows)
 
 ## 🧠 Key Queries
 - Products out-of-stock in frozen categories
